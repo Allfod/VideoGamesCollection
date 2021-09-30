@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="20G80" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="VideoGamesCollection">
+    <entity name="GamesCD" representedClassName="VideoGamesCollection.GamesCD" syncable="YES">
+        <attribute name="game_id" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="GamesCD" positionX="21.921875" positionY="-281.91796875" width="128" height="58"/>
+    </elements>
+</model>

@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.4.3)
+  - JGProgressHUD (2.2)
+  - Kingfisher (6.3.1)
+  - lottie-ios (3.2.3)
+  - MotionToastView (0.1.10)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - JGProgressHUD
+  - Kingfisher (~> 6.0)
+  - lottie-ios
+  - MotionToastView
+  - Moya
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JGProgressHUD
+    - Kingfisher
+    - lottie-ios
+    - MotionToastView
+    - Moya
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+
+PODFILE CHECKSUM: 005a46c39db30143096dfe95d91ea87d550af445
+
+COCOAPODS: 1.10.1
